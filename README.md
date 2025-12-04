@@ -14,7 +14,6 @@ Program do automatycznej oceny jakości obrazów na podstawie analizy histogram�
 - [Algorytmy poprawy](#algorytmy-poprawy)
 - [Konfiguracja](#konfiguracja)
 - [Rozwiązywanie problemów](#rozwiązywanie-problemów)
-- [Autor](#autor)
 - [Licencja](#licencja)
 
 ## Opis
